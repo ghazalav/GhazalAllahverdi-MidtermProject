@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+}
+
+
+.content .content-items{
+    /* border: 1px solid red; */
+    margin: 80px auto 0;
+    width: 1340px;
+    height: 1200px;
+}
+.content .content-items .text{
+	color: #0a0a0a;
+	
+	margin-left: 60px;
+	margin-top: 170px;
+	margin-right:60px;
+	margin-bottom: 170px;
+    font-size: 5vw;
+    text-align: left;
+    font-family: 'playfair display','HelveticaNeue','Helvetica Neue','Helvetica-Neue',Helvetica,Arial,sans-serif;
+    /* border: 1px solid red; */
+}
+	
+.totalArea{
+    position: relative;
+   
+    height: 75%;
+    width: 90%;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+
+.t1{
+    margin-top: 10px;
+
+    position: absolute;
+    height: 48%;
+    width: 23%;
+    cursor: pointer;
+
+}
+.t2{
+    margin-top: 10px;
+  
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    height: 48%;
+    width: 23%;
+    cursor: pointer;
+
+}
+.t3{
+    margin-top: 10px;
+    
+    position: absolute;
+    top: 0%;
+    left: 50%;
+
+    height: 48%;
+    width: 23%;
+    cursor: pointer;
+
+}
+.t4{
+    margin-top: 10px;
+    
+    position: absolute;
+    top: 0%;
+    left: 75%;
+    height: 48%;
+    width: 23%;
+    cursor: pointer;
+
+
+}
+.t5{
+    margin-top: 10px;
+   
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 48%;
+    width: 23%;
+    cursor: pointer;
+
+}
+.t6{
+    margin-top: 10px;
+    
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    height: 48%;
+    width: 23%;
+    cursor: pointer;
+
+}
+.t7{
+    margin-top: 10px;
+   
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 48%;
+    width: 23%;
+    cursor: pointer;
+
+}
+.t8{
+    margin-top: 10px;
+
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    height: 48%;
+    width: 23%;
+    cursor: pointer;
+
+}
